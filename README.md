@@ -1,4 +1,4 @@
-# RELAY: An Offline-First Emergency Resource Coordination System Using Distributed Computing
+# RELAY: An Offline Emergency Resource Coordination System Using Distributed Computing
 
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/Frontend-React_18-61DAFB?style=flat&logo=react)](https://reactjs.org/)
